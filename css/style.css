@@ -208,7 +208,7 @@ body {
 .container-right {
     position: relative;
     background: url("../img/container-bg.jpg");
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("img/container-bg.jpg.jpg");
     background-size: cover;
     width: 75%;
     border-radius: 0px 12px 12px 0px;
